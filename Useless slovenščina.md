@@ -190,6 +190,7 @@ Več o:
 - avtorju
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
+
 ## ==Dane Zajc: Veliki črni bik==
 
 
