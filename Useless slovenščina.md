@@ -162,8 +162,10 @@ Več o:
 - delu
 	- Življenje se igra s pajacem
 	- celuloid - lahko gorljiva snov
-	- "vse je šlo k hudiču"
-	- svonec v lastnih nogah bo pajaca dr
+	- "vse je šlo k hudiču" 
+	- svinec v lastnih nogah bo pajaca držal pokonci
+	- Bivanjska tema
+	- brez omejitve (svinčene u)
 - avtorju
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
