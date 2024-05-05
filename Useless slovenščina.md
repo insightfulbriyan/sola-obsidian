@@ -153,7 +153,22 @@ Več o:
 	- Med WWII začela pisati kratke zgodbe
 	- Po vojni študirala poljščino in sociologijo vendar študija ni končala
 ## ==Janez Menart: Celuloidni pajac==
+Obdobje: `intimizem`
+Vrsta: `proza`
+Kako prepoznat: 
+- govori o pajacu, živlčjenju in niču
 
+Več o:
+- delu
+	- Likovna pesem - besede v obliki tistega kar pesem opisuje (hiša)
+	- Riše življenje kot si ga želi (streha nad glavo, lepo urejena okolica)
+	- Razočaranje nad življenjem vendar za uresničitev sanj ne stori ničesar
+	- Ironija (“pobere vse in mizico pobriše)
+	- Pomanjševalnice
+	- Humorno-samoironičen slog -> odloči se da bo neskladje med resničnostjo in sanjami premagal s pijačo
+- avtorju
+	- 1./2 20. stol v Mariboru
+	- študiral primerjalno književnost in slovenščino
 
 
 ## Janez Menart: Croquis
