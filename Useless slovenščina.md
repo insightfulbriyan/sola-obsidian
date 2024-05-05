@@ -192,7 +192,22 @@ Več o:
 	- študiral primerjalno književnost in slovenščino
 
 ## ==Dane Zajc: Veliki črni bik==
+Obdobje: `intimizem`
+Vrsta: `proza`
+Kako prepoznat: 
+- Pijana oseba v kavarni polil svojo pijaši in riše hiško s tisto tekočino (konjak)
 
+Več o:
+- delu
+	- Likovna pesem - besede v obliki tistega kar pesem opisuje (hiša)
+	- Riše življenje kot si ga želi (streha nad glavo, lepo urejena okolica)
+	- Razočaranje nad življenjem vendar za uresničitev sanj ne stori ničesar
+	- Ironija (“pobere vse in mizico pobriše)
+	- Pomanjševalnice
+	- Humorno-samoironičen slog -> odloči se da bo neskladje med resničnostjo in sanjami premagal s pijačo
+- avtorju
+	- 1./2 20. stol v Mariboru
+	- študiral primerjalno književnost in slovenščino
 
 
 ## ==Gregor Strniša: Večerna pravljica==
