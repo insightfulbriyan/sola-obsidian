@@ -167,7 +167,7 @@ Več o:
 	- Bivanjska tema
 	- brez omejitve (svinčene uteži) bi bilo le še slabše
 	- simbol za malega človeka ???
-	- 
+	- intimizem - po socialnem realizmu
 - avtorju
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
