@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useless slovenščina.md",
-                "mode": "preview",
+                "file": "Day-notes/2024-05-06.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useless slovenščina.md",
+                "file": "Day-notes/2024-05-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useless slovenščina.md",
+                "file": "Day-notes/2024-05-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useless slovenščina.md"
+                "file": "Day-notes/2024-05-06.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "59085668135a6abf",
   "lastOpenFiles": [
-    "Day-notes/2024-05-05.md",
     "Useless slovenščina.md",
+    "Day-notes/2024-05-06.md",
+    "Day-notes/2024-05-05.md",
     "Welcome.md",
     "README.md",
     "Naloge za Karolija.md",
