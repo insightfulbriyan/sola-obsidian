@@ -68,9 +68,9 @@ Več o:
 - avtorju
 	- Slovenec, začetek 20. stol
 	- Učiteljska družina
-	- šolal se je na realki v Ljubljani
-	- študiral slavistiko in filozofijo na Filozofski fakulteti
-	- umrl zaradi meningitisa (star dobrih 20 let)
+	- Šolal se je na realki v Ljubljani
+	- Študiral slavistiko in filozofijo na Filozofski fakulteti
+	- Umrl zaradi meningitisa (star dobrih 20 let)
 	- Njegova zbirka _Integrali_ je bila izdana po njegovi smrti
 - zgodovinske okoliščine
 	- WWI
