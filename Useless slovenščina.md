@@ -285,7 +285,7 @@ Več o:
 
 
 ## ==Florjan Lipuš: Zmote dijaka Tjaža==
-Obdobje: `modernizem - eksistenczalistična tematika`
+Obdobje: `modernizem tematika`
 Vrsta: `roman`
 Dogajalni čas: `čas`
 Dogajalni prostor: `prostor`
