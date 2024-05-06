@@ -296,7 +296,7 @@ Več o:
 - delu
 	- delo
 - avtorju
-	- Narodnoist, rojstvo
+	- 
 	- oče: ; mati: 
 	- 
 	- študij?
