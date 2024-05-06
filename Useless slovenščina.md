@@ -303,7 +303,8 @@ Več o:
 	- Za ceno socialne preskrbljenosti, ta pravila pretiravajo
 	- Tjaž se počasi prične sistemu upirati
 	- Kasneje Tjaž iz zavoda pobegne in stori samomor
-	- več neologizmov v delu
+	- V delu veliko neologizmov
+	- Personalni in vsevedni pripovedovalc (različna )
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
