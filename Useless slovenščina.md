@@ -387,6 +387,9 @@ Koroški plebiscit
 #### Dela
 - [[#Wisława Szymborska Radost pisanja|Wisława Szymborska: Radost pisanja]]
 
+#### Značilnosti
+1960+; 
+
 ### Intimizem
 #### Dela
 - [[#Janez Menart Celuloidni pajac|Janez Menart: Celuloidni pajac]]
