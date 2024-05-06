@@ -37,7 +37,7 @@ Več o:
 	- Groteska
 	- Gregor Samsa- trgovski potnik, ki dela da odplača očetov dolg; boji se šefa; vedno je na poti; močno je obremenjen z družino
 	- S sestro še vedno živita pri starših
-	- Nekega jutra se zbudi preobrazenega v hrošča, ki se ga družina sramuje
+	- Nekega jutra se zbudi preobraženega v hrošča, ki se ga družina sramuje
 	- Ker je Gregor prej preskrblejval družino - tega sedaj ni mogel več početi, so začeli oddajati sobe; Gregorja so vedno skrivali pred podnjemniki
 	- Za Gregorja nekaj časa skrbi njegova sestra, česar pa se počasi naveliča; Gregor spozna da je odvečen in stori samomor
 	- Služkinja ga pomete in vrže vn
