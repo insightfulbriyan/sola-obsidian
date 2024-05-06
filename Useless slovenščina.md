@@ -227,6 +227,7 @@ Več o:
 	- Animaliziran svet poln neprijaznih zvokov
 	- Kot se miši skrivajo v jamah se skrivajo ljudje, nimajo poguma, 
 - avtorju
+	- med vojnama v Ljubljani
 	- 
 
 
