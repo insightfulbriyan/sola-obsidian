@@ -377,6 +377,9 @@ Več o:
 - [[#Wisława Szymborska Radost pisanja|Wisława Szymborska: Radost pisanja]]
 
 ### Intimizem
+#### Dela
+- [[#Janez Menart Celuloidni pajac|Janez Menart: Celuloidni pajac]]
+- [[#Janez Menart Croquis|Janez Menart: Croquis]]
 
-### modernizem
+### Modernizem
 
