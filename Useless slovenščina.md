@@ -299,9 +299,8 @@ Več o:
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
 	- Zaradi vojne je šel pozno v šolo
+	- Študija bogoslovja ni končal
 	- Med drugim delal kot učitelj
-	- 
-	- Š
 	- Še živ
 - zgodovinske okoliščine
 	- Zgodovina
