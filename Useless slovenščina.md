@@ -298,7 +298,7 @@ Več o:
 - avtorju
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
 	- Zaradi vojne je šel pozno v šolo
-	- 
+	- Med drugim delal kot učitelj
 	- 
 	- študij?
 	- umrl  (star n let)
