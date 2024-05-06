@@ -301,7 +301,7 @@ Več o:
 	- Zaradi vojne je šel pozno v šolo
 	- Med drugim delal kot učitelj
 	- 
-	- študij?
+	- Š
 	- Še živ
 - zgodovinske okoliščine
 	- Zgodovina
