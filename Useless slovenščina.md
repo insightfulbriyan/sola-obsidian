@@ -393,7 +393,7 @@ Koroški plebiscit
 - [[#Janez Menart Croquis|Janez Menart: Croquis]]
 
 #### Značinlnosti
-Osebna izpoved; mali človek postane pomemben kot posameznik, njegova 
+Osebna izpoved; mali človek postane pomemben kot posameznik, njegova usoda je neherojska (za razliko socialnega realizma) 
 
 ### Modernizem
 #### Dela
