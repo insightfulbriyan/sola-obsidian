@@ -393,7 +393,8 @@ Koroški plebiscit
 - [[#Janez Menart Croquis|Janez Menart: Croquis]]
 
 #### Značinlnosti
-Osebna izpoved; teme 
+Osebna izpoved; mali človek postane pomemben kot posameznik, njegova 
+
 ### Modernizem
 #### Dela
 - [[#Dane Zajc Veliki črni bik|Dane Zajc: Veliki črni bik]]
