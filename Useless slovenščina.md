@@ -296,7 +296,7 @@ Več o:
 - delu
 	- Delo je avtobiografsko
 	- Groteska, satira
-	- 
+	- Tjaž je živel
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
