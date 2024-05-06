@@ -294,18 +294,16 @@ Kako prepoznat:
 
 Več o:
 - delu
-	- Delo je avtobiografsko 
+	- Delo je avtobiografsko
+	- G
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
 	- Zaradi vojne je šel pozno v šolo
 	- Študija bogoslovja ni končal
 	- Med drugim delal kot učitelj
+	- Prejel Prešernovo nagrado
 	- Še živ
-- zgodovinske okoliščine
-	- Zgodovina
-
-
 
 ## Lojze Kovačič: Prišleki
 Obdobje: `modernizem - eksistenczalistična tematika`
