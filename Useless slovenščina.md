@@ -284,7 +284,7 @@ Več o:
 
 
 
-## ==Florjan Lipuš: Zmote dijaka Tjaža==
+## Florjan Lipuš: Zmote dijaka Tjaža
 Obdobje: `modernizem tematika`
 Vrsta: `roman`
 Dogajalni čas: `čas`
