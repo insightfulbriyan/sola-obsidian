@@ -3,5 +3,6 @@
   "baseFontSize": 14,
   "baseFontSizeAction": true,
   "cssTheme": "Tokyo Night",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "moonstone"
 }
