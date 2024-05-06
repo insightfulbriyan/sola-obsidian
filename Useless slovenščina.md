@@ -205,13 +205,14 @@ Več o:
 	- Stilna sredstva:
 		- Retorično vprašanje
 		- Ponavljanje na začetku vrstice - anafora
-		- primere
+		- Primere
 		- Poosebite
 		- Paralelizem členov - ponavljanje besed/verzov
 - avtorju
-	- med vojnama v Moravčah
-	- med WWII so njegovo domačijo požgali (Nemci)
-	- 
+	- Med vojnama v Moravčah
+	- Med WWII so njegovo domačijo požgali (Nemci)
+	- Poleg pesmi pisal tudi drame, eseje, mladinsko književnost
+	- Prejel Prešernovo nagrado
 
 
 ## ==Gregor Strniša: Večerna pravljica==
