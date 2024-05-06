@@ -228,7 +228,8 @@ Več o:
 	- Kot se miši skrivajo v jamah se skrivajo ljudje, nimajo poguma, 
 - avtorju
 	- med vojnama v Ljubljani
-	- Živel s Svet
+	- Živel s Svetlano Makarovič
+	- 
 
 
 ## Svetlana Makarovič: Odštevanka
