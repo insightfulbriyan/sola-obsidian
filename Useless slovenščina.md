@@ -353,3 +353,8 @@ Več o:
 	- Oče umrl 1944
 	- 1942 zaprosili za izselitev v Nemčijo vendar so vseeno ostali v Sloveniji
 	- 
+
+## Obdobja
+### Svetovna književnost 1./2 20. stol
+
+### vantgarda
