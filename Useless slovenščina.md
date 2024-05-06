@@ -388,7 +388,7 @@ Koroški plebiscit
 - [[#Wisława Szymborska Radost pisanja|Wisława Szymborska: Radost pisanja]]
 
 #### Značilnosti
-1960+; fragmentarnost, samorefleksija, mežšanje žanrov; zavest konstruira resničnost; resničnost ne obstaja, obstaja 
+1960+; fragmentarnost, samorefleksija, mežšanje žanrov; zavest konstruira resničnost; resničnost ne obstaja, obstaja samo naša subjektivna predstava le te; za razloko modernistov se sprijaznejo s subjektivnostjo in pluralnostjo resnic;
 
 ### Intimizem
 #### Dela
