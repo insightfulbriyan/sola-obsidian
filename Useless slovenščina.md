@@ -199,7 +199,8 @@ Kako prepoznat:
 
 Več o:
 - delu
-	- 
+	- Bik je v eksistencialni krizi, simbolizira pesnika
+	- Hkrati je lahko bik simpol za 
 - avtorju
 	- 
 
