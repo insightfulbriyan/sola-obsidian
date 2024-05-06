@@ -383,9 +383,9 @@ Več o:
 
 ### Modernizem
 #### Dela
-- [[#Dane Zajc Veliki črni bik]]
-- [[#Gregor Strniša Večerna pravljica]]
-- [[#Svetlana Makarovič Odštevanka]]
+- [[#Dane Zajc Veliki črni bik|Dane Zajc: Veliki črni bik]]
+- [[#Gregor Strniša Večerna pravljica|Gregor Streniša: Večerna pravljica]]
+- [[#Svetlana Makarovič Odštevanka|Svetlana Makarovič: Odštevanka]]
 - [[#Vitomil Zupan Menuet za kitaro (na 25 strelov)]]
 - [[#Florjan Lipuš Zmote dijaka Tjaža]]
-- 
+- [[#Lojze Kovačič Prišleki]]
