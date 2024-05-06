@@ -365,7 +365,7 @@ Več o:
 #### Dela
 - [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
 #### Značilnosti
-Prelomiti želijo s tradicijo, a
+Prelomiti želijo s tradicijo, avtorji so po
 ### Socialni realizem
 #### Dela
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
