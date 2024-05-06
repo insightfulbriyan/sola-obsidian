@@ -362,9 +362,11 @@ Več o:
 
 ### Avantgarda
 #### Dela
-- Srečko Kosovel: Kons 5
+- [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
 
 ### Socialni realizem
+#### Dela
+- [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
 
 ### Ekspresionizem
 
