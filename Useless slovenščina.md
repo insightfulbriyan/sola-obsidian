@@ -23,6 +23,7 @@ Več o:
 - zgodovinske okoliščine
 	- Francoska visoka družba v času 3. republike
 	- Od konca 19. stol do WWI
+
 ## Franz Kafta: Preobrazba
 Obdobje: `Svetovna književnost 1./2 20. stol`
 Vrsta: `novela`
@@ -50,7 +51,6 @@ Več o:
 	- študiral pravo
 	- z očetom je imel slab odnos
 
-
 ## Srečko Kosovel: Kons 5
 Obdobje: `avantgarda - ekspresionizem`
 Vrsta: `poezija`
@@ -75,6 +75,7 @@ Več o:
 	- Njegova zbirka _Integrali_ je bila izdana po njegovi smrti
 - zgodovinske okoliščine
 	- WWI
+
 ## Prežihov Voranc: Samorastniki
 Obdobje: `socialni realizem`
 Vrsta: `novela`
@@ -105,6 +106,7 @@ Več o:
 	- vojak v WWI
 	- Komunist, član OF
 	- Med WWII je bil zaprt v koncentrcijsko taborišče
+
 ## Karel Destovnik - Kajuh: Bosa pojdiva
 Obdobje: `ekspesionizem?`
 Vrsta: `poezija`
@@ -132,6 +134,7 @@ Več o:
 	- Prepoznan kot državni sovražnik
 	- Ustreljen v svoji domačiji star dobrih 20 let
 	- Posmrtno so mu podelili red narodnega heroja
+
 ## Wisława Szymborska: Radost pisanja
 Obdobje: `postmodernizem`
 Vrsta: `poezija`
@@ -152,7 +155,8 @@ Več o:
 	- Poljakinja, 1./2 20. stol
 	- Med WWII začela pisati kratke zgodbe
 	- Po vojni študirala poljščino in sociologijo vendar študija ni končala
-## ==Janez Menart: Celuloidni pajac==
+
+## Janez Menart: Celuloidni pajac
 Obdobje: `intimizem`
 Vrsta: `proza`
 Kako prepoznat: 
