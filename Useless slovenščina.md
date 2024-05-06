@@ -1,4 +1,5 @@
-## Marcel Proust: Combray
+## Dela
+### Marcel Proust: Combray
 Obdobje: `Svetovna književnost v 1./2 20. stol.`
 Vrsta: `modereni psihološki roman`
 Dogajalni čas: `začetek 20. stol.`
@@ -24,7 +25,7 @@ Več o:
 	- Francoska visoka družba v času 3. republike
 	- Od konca 19. stol do WWI
 
-## Franz Kafta: Preobrazba
+### Franz Kafta: Preobrazba
 Obdobje: `Svetovna književnost 1./2 20. stol`
 Vrsta: `novela`
 Dogajalni prostor: `soba Gregorja Samse`
@@ -50,7 +51,7 @@ Več o:
 	- študiral pravo
 	- z očetom je imel slab odnos
 
-## Srečko Kosovel: Kons 5
+### Srečko Kosovel: Kons 5
 Obdobje: `avantgarda - konstruktivizem`
 Vrsta: `poezija`
 Kako prepoznat: 
@@ -75,7 +76,7 @@ Več o:
 - zgodovinske okoliščine
 	- WWI
 
-## Prežihov Voranc: Samorastniki
+### Prežihov Voranc: Samorastniki
 Obdobje: `socialni realizem`
 Vrsta: `novela`
 Dogajalni čas: `fevdalna doba (okoli 1800)`
@@ -106,7 +107,7 @@ Več o:
 	- Komunist, član OF
 	- Med WWII je bil zaprt v koncentrcijsko taborišče
 
-## Karel Destovnik - Kajuh: Bosa pojdiva
+### Karel Destovnik - Kajuh: Bosa pojdiva
 Obdobje: `ekspesionizem?`
 Vrsta: `poezija`
 Kako prepoznat: 
@@ -134,7 +135,7 @@ Več o:
 	- Ustreljen v svoji domačiji star dobrih 20 let
 	- Posmrtno so mu podelili red narodnega heroja
 
-## Wisława Szymborska: Radost pisanja
+### Wisława Szymborska: Radost pisanja
 Obdobje: `postmodernizem`
 Vrsta: `poezija`
 Kako prepoznat: 
@@ -155,7 +156,7 @@ Več o:
 	- Med WWII začela pisati kratke zgodbe
 	- Po vojni študirala poljščino in sociologijo vendar študija ni končala
 
-## Janez Menart: Celuloidni pajac
+### Janez Menart: Celuloidni pajac
 Obdobje: `intimizem`
 Vrsta: `proza`
 Kako prepoznat: 
@@ -175,7 +176,7 @@ Več o:
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
 
-## Janez Menart: Croquis
+### Janez Menart: Croquis
 Obdobje: `intimizem`
 Vrsta: `proza`
 Kako prepoznat: 
@@ -193,7 +194,7 @@ Več o:
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
 
-## Dane Zajc: Veliki črni bik
+### Dane Zajc: Veliki črni bik
 Obdobje: `modernizem`
 Vrsta: `proza`
 Kako prepoznat: 
@@ -217,7 +218,7 @@ Več o:
 	- Prejel Prešernovo nagrado
 
 
-## Gregor Strniša: Večerna pravljica
+### Gregor Strniša: Večerna pravljica
 Obdobje: `modernizem`
 Vrsta: `proza`
 Kako prepoznat: 
@@ -233,7 +234,7 @@ Več o:
 	- Živel s Svetlano Makarovič
 	- Prejel Prešernovo nagrado
 
-## Svetlana Makarovič: Odštevanka
+### Svetlana Makarovič: Odštevanka
 Obdobje: `modernizem`
 Vrsta: `poezija`
 Kako prepoznat: 
@@ -254,7 +255,7 @@ Več o:
 	- Ustanovilav AGRFT (Akademija za gledališče, radio, film in televizijo)
 	- Živela z Gregorjem Strnišo
 	- Še živa
-## Vitomil Zupan: Menuet za kitaro (na 25 strelov)
+### Vitomil Zupan: Menuet za kitaro (na 25 strelov)
 Obdobje: `modernizem`
 Vrsta: `(vojni) roman`
 Dogajalni čas: `1. WWII; 2. dolgo po vojni`
@@ -283,7 +284,7 @@ Več o:
 
 
 
-## Florjan Lipuš: Zmote dijaka Tjaža
+### Florjan Lipuš: Zmote dijaka Tjaža
 Obdobje: `modernizem tematika`
 Vrsta: `roman`
 Dogajalni čas: `čas`
@@ -314,7 +315,7 @@ Več o:
 	- Prejel Prešernovo nagrado
 	- Še živ
 
-## Lojze Kovačič: Prišleki
+### Lojze Kovačič: Prišleki
 Obdobje: `modernizem - eksistenczalistična tematika`
 Vrsta: `roman`
 Dogajalni čas: `WWII`
