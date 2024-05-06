@@ -200,7 +200,11 @@ Kako prepoznat:
 Več o:
 - delu
 	- Bik je v eksistencialni krizi, simbolizira pesnika
-	- Hkrati je lahko bik simpol za 
+	- Hkrati je lahko bik simbol za moč ali mitološko bitje
+	- Osrednjua tema je osamlejnost
+	- Stilna sredstva:
+		- Retorično vprašanje
+		- Ponavljanje
 - avtorju
 	- 
 
