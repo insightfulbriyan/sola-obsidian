@@ -361,13 +361,13 @@ Več o:
 - [[#Franz Kafta Preobrazba|Franz Kafka: Preobrazba]]
 
 #### Značilnosti
-### Avantgarda
-#### Dela
-- [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
-#### Značilnosti
-Prelomiti želijo s tradicijo, avtorji so politično aktivni. Podzvrsti so: futurizem, ekspresionizem, dadizem, nadrealizem, konstruktivizem.
-
-WWI, WWII
+	### Avantgarda
+	#### Dela
+	- [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
+	#### Značilnosti
+	Prelomiti želijo s tradicijo, avtorji so politično aktivni. Podzvrsti so: futurizem, ekspresionizem, dadizem, nadrealizem, konstruktivizem.
+	
+	WWI, WWII
 ### Socialni realizem
 #### Dela
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
