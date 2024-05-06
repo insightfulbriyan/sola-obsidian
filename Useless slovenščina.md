@@ -370,6 +370,9 @@ WWI, WWII
 #### Dela
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
 
+#### Značilnosti
+1930 - 1950; Osnova je realizem, ukvarja se z
+
 ### Ekspresionizem
 #### Dela
 - [[#Karel Destovnik - Kajuh Bosa pojdiva|Karel Destovnik - Kajuh: Bosa pojdiva]]
