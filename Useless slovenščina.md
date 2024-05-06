@@ -392,6 +392,8 @@ Koroški plebiscit
 - [[#Janez Menart Celuloidni pajac|Janez Menart: Celuloidni pajac]]
 - [[#Janez Menart Croquis|Janez Menart: Croquis]]
 
+#### Značinlnosti
+Osebna izpoved; teme 
 ### Modernizem
 #### Dela
 - [[#Dane Zajc Veliki črni bik|Dane Zajc: Veliki črni bik]]
