@@ -225,7 +225,7 @@ Več o:
 - delu
 	- Spominja na grozljivo pravljico
 	- Animaliziran svet poln neprijaznih zvokov
-	- Kot se miši skrivajo v jamah se ljudje skrivajo 
+	- Kot se miši skrivajo v jamah se skrivajo ljudje, nimajo poguma, 
 - avtorju
 	- 
 
