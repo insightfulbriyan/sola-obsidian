@@ -191,8 +191,8 @@ Več o:
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
 
-## ==Dane Zajc: Veliki črni bik==
-Obdobje: `intimizem`
+## Dane Zajc: Veliki črni bik
+Obdobje: `eksistencializem`
 Vrsta: `proza`
 Kako prepoznat: 
 - Pijana oseba v kavarni polil svojo pijaši in riše hiško s tisto tekočino (konjak)
