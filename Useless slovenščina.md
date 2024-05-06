@@ -27,7 +27,6 @@ Več o:
 ## Franz Kafta: Preobrazba
 Obdobje: `Svetovna književnost 1./2 20. stol`
 Vrsta: `novela`
-Dogajalni čas: `čas`
 Dogajalni prostor: `soba Gregorja Samse`
 Kako prepoznat: 
 - Gregor Samsa
