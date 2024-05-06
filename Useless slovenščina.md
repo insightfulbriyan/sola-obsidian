@@ -294,10 +294,11 @@ Kako prepoznat:
 
 Več o:
 - delu
-	- delo
+	- Delo je avtobiografsko 
 - avtorju
+	- V otroštvu mu je v koncentracijskem taborišču umrla mati
+	- Zaradi vojne je šel pozno v šolo
 	- 
-	- oče: ; mati: 
 	- 
 	- študij?
 	- umrl  (star n let)
