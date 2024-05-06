@@ -360,10 +360,12 @@ Več o:
 - [[#Marcel Proust Combray|Marcel Proust: Combray]]
 - [[#Franz Kafta Preobrazba|Franz Kafka: Preobrazba]]
 
+#### Značilnosti
 ### Avantgarda
 #### Dela
 - [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
-
+#### Značilnosti
+Prelomiti želijo s tradicijo, a
 ### Socialni realizem
 #### Dela
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
