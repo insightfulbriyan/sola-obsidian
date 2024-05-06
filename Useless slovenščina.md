@@ -302,7 +302,8 @@ Več o:
 	- V zavodu vladala stroga pravila, ki so omejevala bolj kot ne vse vidike bivanja v domu
 	- Za ceno socialne preskrbljenosti, ta pravila pretiravajo
 	- Tjaž se počasi prične sistemu upirati
-	- 
+	- Kasneje Tjaž iz zavoda pobegne in stori samomor
+	- več neologizmov v delu
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
