@@ -219,11 +219,12 @@ Več o:
 Obdobje: `modernizem`
 Vrsta: `proza`
 Kako prepoznat: 
-> 
+- Kamni postanjeo pajki; neka hiša sredi gozda
 
 Več o:
 - delu
-	- 
+	- Spominja na grozljivo pravljico
+	- animalizira
 - avtorju
 	- 
 
