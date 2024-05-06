@@ -8,7 +8,7 @@ Kako prepoznat:
 
 Več o:
 - delu
-	- Del romana _V Swanmmovem svetu_, ki je del romanesknega cikla _Iskanje izgubljenega časa_
+	- Del romana _V Swannovem svetu_, ki je del romanesknega cikla _Iskanje izgubljenega časa_
 	- Pripovedovalec se prebudi nekega jutra v začetku 1902, spominja se svojih otroških let, ki jih je preživljal v pariški četrti Combray pri svoji teti
 	- pripoveduje o sosedu, ki je preprečil pripovedopvalcu, da bi ga mati pred spanjem poljubila
 	- Bralcu tudi zaupa spomin na magdalenice, katere okus priupovedovalca spomijna na kraj kjer je opdraščal
