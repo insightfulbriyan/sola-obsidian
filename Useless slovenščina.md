@@ -192,7 +192,7 @@ Več o:
 	- študiral primerjalno književnost in slovenščino
 
 ## Dane Zajc: Veliki črni bik
-Obdobje: `modernize`
+Obdobje: `modernizem`
 Vrsta: `proza`
 Kako prepoznat: 
 > Veliki črni bit rjove v jutro.
@@ -205,7 +205,16 @@ Več o:
 
 
 ## ==Gregor Strniša: Večerna pravljica==
+Obdobje: `modernizem`
+Vrsta: `proza`
+Kako prepoznat: 
+> 
 
+Več o:
+- delu
+	- 
+- avtorju
+	- 
 
 
 ## Svetlana Makarovič: Odštevanka
