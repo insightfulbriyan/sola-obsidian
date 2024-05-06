@@ -365,7 +365,7 @@ Več o:
 #### Dela
 - [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
 #### Značilnosti
-Prelomiti želijo s tradicijo, avtorji so po
+Prelomiti želijo s tradicijo, avtorji so politično aktivni. Podzvrsti so: futurizem, ekspresionizem, dadizem, nadrealizem, konstruktivizem
 ### Socialni realizem
 #### Dela
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
