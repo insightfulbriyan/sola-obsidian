@@ -51,7 +51,7 @@ Več o:
 	- z očetom je imel slab odnos
 
 ## Srečko Kosovel: Kons 5
-Obdobje: `avantgarda - ekspresionizem`
+Obdobje: `avantgarda - konstruktivizem`
 Vrsta: `poezija`
 Kako prepoznat: 
 - Gnoj je zlato 
