@@ -369,8 +369,12 @@ Več o:
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
 
 ### Ekspresionizem
+#### Dela
+- [[#Karel Destovnik - Kajuh Bosa pojdiva|Karel Destovnik - Kajuh: Bosa pojdiva]]
 
 ### Postmodernizem
+#### Dela
+- [[#Wisława Szymborska Radost pisanja|Wisława Szymborska: Radost pisanja]]
 
 ### Intimizem
 
