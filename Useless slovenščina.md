@@ -371,7 +371,7 @@ WWI, WWII
 - [[#Prežihov Voranc Samorastniki|Prežihov Voranc: Samorastniki]]
 
 #### Značilnosti
-1930 - 1950; Osnova je realizem, ukvarja se z vsakdanjo socialno problematiko (z malim človekom - (pripadnikom nižjega sloja, kmetom, ki se bori za vsakdanje preživetje)). Temelji na socializmu (in marksizmu)
+1930 - 1950; Osnova je realizem, ukvarja se z vsakdanjo socialno problematiko (z malim človekom - (pripadnikom nižjega sloja, kmetom, ki se bori za vsakdanje preživetje)). Temelji na socializmu (in marksizmu). Avtorji zagovarjajo več pravic za malega človeka
 
 ### Ekspresionizem
 #### Dela
