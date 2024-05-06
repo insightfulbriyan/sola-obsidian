@@ -204,7 +204,10 @@ Več o:
 	- Osrednjua tema je osamlejnost
 	- Stilna sredstva:
 		- Retorično vprašanje
-		- Ponavljanje
+		- Ponavljanje na začetku vrstice - anafora
+		- primere
+		- Poosebite
+		- Paralelizem členov - ponavljanje besed/verzov
 - avtorju
 	- 
 
