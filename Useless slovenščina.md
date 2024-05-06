@@ -374,6 +374,10 @@ WWI, WWII
 #### Dela
 - [[#Karel Destovnik - Kajuh Bosa pojdiva|Karel Destovnik - Kajuh: Bosa pojdiva]]
 
+#### Značilnosti
+Podvrsta avantgarde. 
+AO -> 
+
 ### Postmodernizem
 #### Dela
 - [[#Wisława Szymborska Radost pisanja|Wisława Szymborska: Radost pisanja]]
