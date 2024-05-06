@@ -359,12 +359,10 @@ Več o:
 #### Dela
 - [[#Marcel Proust Combray|Marcel Proust: Combray]]
 - [[#Franz Kafta Preobrazba|Franz Kafka: Preobrazba]]
-
-#### Značilnosti
-### Avantgarda
-#### Dela
+#### Avantgarda
+##### Dela
 - [[#Srečko Kosovel Kons 5|Srečko Kosovel: Kons 5]]
-#### Značilnosti
+##### Značilnosti
 Prelomiti želijo s tradicijo, avtorji so politično aktivni. Podzvrsti so: futurizem, ekspresionizem, dadizem, nadrealizem, konstruktivizem.
 
 WWI, WWII
