@@ -295,7 +295,8 @@ Kako prepoznat:
 Več o:
 - delu
 	- Delo je avtobiografsko
-	- G
+	- Groteska, satira
+	- 
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
