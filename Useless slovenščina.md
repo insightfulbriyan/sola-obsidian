@@ -255,7 +255,7 @@ Več o:
 	- Ustanovilav AGRFT (Akademija za gledališče, radio, film in televizijo)
 	- Živela z Gregorjem Strnišo
 	- Še živa
-## Vitomil Zupan: Minuet za kitaro (na 25 strelov)
+## Vitomil Zupan: Menuet za kitaro (na 25 strelov)
 Obdobje: `modernizem`
 Vrsta: `(vojni) roman`
 Dogajalni čas: `1. WWII; 2. dolgo po vojni`
