@@ -357,10 +357,12 @@ Več o:
 ## Obdobja
 ### Svetovna književnost 1./2 20. stol
 #### Dela
-- Marcel Proust: Combray
-- 
+- [[#]]
+- Franz Kafka: Preobrazba
 
 ### Avantgarda
+#### Dela
+- Srečko Kosovel: Kons 5
 
 ### Socialni realizem
 
