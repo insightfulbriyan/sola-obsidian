@@ -172,7 +172,6 @@ Več o:
 	- 1./2 20. stol v Mariboru
 	- študiral primerjalno književnost in slovenščino
 
-
 ## Janez Menart: Croquis
 Obdobje: `intimizem`
 Vrsta: `proza`
@@ -215,7 +214,7 @@ Več o:
 	- Prejel Prešernovo nagrado
 
 
-## ==Gregor Strniša: Večerna pravljica==
+## Gregor Strniša: Večerna pravljica
 Obdobje: `modernizem`
 Vrsta: `proza`
 Kako prepoznat: 
@@ -229,8 +228,7 @@ Več o:
 - avtorju
 	- med vojnama v Ljubljani
 	- Živel s Svetlano Makarovič
-	- 
-
+	- Prejel Prešernovo nagrado
 
 ## Svetlana Makarovič: Odštevanka
 Obdobje: `modernizem`
