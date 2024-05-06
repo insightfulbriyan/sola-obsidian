@@ -209,6 +209,8 @@ Več o:
 		- Poosebite
 		- Paralelizem členov - ponavljanje besed/verzov
 - avtorju
+	- med vojnama v Moravčah
+	- med WWII so njegovo domačijo požgali (Nemci)
 	- 
 
 
