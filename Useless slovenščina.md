@@ -382,4 +382,10 @@ Več o:
 - [[#Janez Menart Croquis|Janez Menart: Croquis]]
 
 ### Modernizem
-
+#### Dela
+- [[#Dane Zajc Veliki črni bik]]
+- [[#Gregor Strniša Večerna pravljica]]
+- [[#Svetlana Makarovič Odštevanka]]
+- [[#Vitomil Zupan Menuet za kitaro (na 25 strelov)]]
+- [[#Florjan Lipuš Zmote dijaka Tjaža]]
+- 
