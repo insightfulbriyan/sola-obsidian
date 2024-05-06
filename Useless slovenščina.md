@@ -285,7 +285,7 @@ Več o:
 
 
 ### Florjan Lipuš: Zmote dijaka Tjaža
-Obdobje: `modernizem tematika`
+Obdobje: `modernizem`
 Vrsta: `roman`
 Dogajalni čas: `čas`
 Dogajalni prostor: `prostor`
@@ -316,7 +316,7 @@ Več o:
 	- Še živ
 
 ### Lojze Kovačič: Prišleki
-Obdobje: `modernizem - eksistenczalistična tematika`
+Obdobje: `modernizem - eksistencialistična tematika`
 Vrsta: `roman`
 Dogajalni čas: `WWII`
 Dogajalni prostor: `1. Švica -> Slovenija; 2. Slovenija`
@@ -356,6 +356,9 @@ Več o:
 
 ## Obdobja
 ### Svetovna književnost 1./2 20. stol
+#### Dela
+- Marcel Proust: Combray
+- 
 
 ### Avantgarda
 
@@ -369,4 +372,3 @@ Več o:
 
 ### modernizem
 
-### 
