@@ -304,7 +304,7 @@ Več o:
 	- Tjaž se počasi prične sistemu upirati
 	- Kasneje Tjaž iz zavoda pobegne in stori samomor
 	- V delu veliko neologizmov
-	- Personalni in vsevedni pripovedovalc (različna )
+	- Personalni in vsevedni pripovedovalc (različna poglavja)
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
