@@ -192,7 +192,7 @@ Več o:
 	- študiral primerjalno književnost in slovenščino
 
 ## Dane Zajc: Veliki črni bik
-Obdobje: `eksistencializem`
+Obdobje: `modernize`
 Vrsta: `proza`
 Kako prepoznat: 
 > Veliki črni bit rjove v jutro.
