@@ -357,4 +357,16 @@ Več o:
 ## Obdobja
 ### Svetovna književnost 1./2 20. stol
 
-### vantgarda
+### Avantgarda
+
+### Socialni realizem
+
+### Ekspresionizem
+
+### Postmodernizem
+
+### Intimizem
+
+### modernizem
+
+### 
