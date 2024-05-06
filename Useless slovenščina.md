@@ -376,7 +376,9 @@ WWI, WWII
 
 #### Značilnosti
 Podvrsta avantgarde. 
-AO -> 
+
+AO -> Država SHS -> Kraljevina SHS - Kraljevina Jugoslavija
+Koroški plebiscit
 
 ### Postmodernizem
 #### Dela
