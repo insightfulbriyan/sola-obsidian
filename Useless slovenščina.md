@@ -404,4 +404,4 @@ Osebna izpoved; mali človek postane pomemben kot posameznik, njegova usoda je n
 - [[#Florjan Lipuš Zmote dijaka Tjaža|Florjan Lipuš: Zmote dijaka Tjaža]]
 - [[#Lojze Kovačič Prišleki|Lojze Kovačič: Prišleki]]
 #### Značilnosti
-Subjektivnost, fragmentarnost (ne)
+Subjektivnost, fragmentarnost (nedokončane mis)
