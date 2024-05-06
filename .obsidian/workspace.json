@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "254a6fb005d3025d",
+        "id": "ba061dde5978b91b",
         "type": "tabs",
         "children": [
           {
-            "id": "59085668135a6abf",
+            "id": "d13e14ef4172b2c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,7 +155,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "59085668135a6abf",
+  "active": "d13e14ef4172b2c1",
   "lastOpenFiles": [
     "Day-notes/2024-05-06.md",
     "Useless slovenščina.md",

@@ -299,7 +299,7 @@ Več o:
 	- Tjaž je živel v revni, neurejeni družini
 	- Med WWII mu je umrla mati, oče je padel po družbeni lestvici
 	- Po vojni je odšel v šolo, moral je v dijaški dom (verski zavod)
-	- 
+	- V zavodu vladala stroga pravila, 
 - avtorju
 	- Avstreijska Koroška
 	- V otroštvu mu je v koncentracijskem taborišču umrla mati
