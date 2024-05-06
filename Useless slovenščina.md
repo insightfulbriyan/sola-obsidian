@@ -357,8 +357,8 @@ Več o:
 ## Obdobja
 ### Svetovna književnost 1./2 20. stol
 #### Dela
-- [[#]]
-- Franz Kafka: Preobrazba
+- [[#Marcel Proust Combray|Marcel Proust: Combray]]
+- [[#Franz Kafta Preobrazba|Franz Kafka: Preobrazba]]
 
 ### Avantgarda
 #### Dela
