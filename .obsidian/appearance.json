@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 14,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "cssTheme": "Blue Topaz",
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Andale Mono"
 }
